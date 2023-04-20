@@ -30,12 +30,7 @@
             <version>${annon.detect}</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/org.testng/testng -->
-        <dependency>
-            <groupId>org.testng</groupId>
-            <artifactId>testng</artifactId>
-            <version>6.11</version>
-            <scope>test</scope>
-        </dependency>
+        
     </dependencies>
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
