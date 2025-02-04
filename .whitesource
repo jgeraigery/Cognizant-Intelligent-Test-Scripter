@@ -1,0 +1,11 @@
+{
+  "settingsInheritedFrom": "jgeraigery/whitesource-config@main",
+  "scanSettingsSAST": {
+    "enableScan": "true",
+    "scanPullRequests": true
+  },
+  "issueSettingsSAST": {
+    "minSeverityLevel": "low",
+    "issueType": "finding"
+  }
+}
